@@ -1,5 +1,7 @@
 # VentaExpress | Data Cleaning and Sales Analysis
 
+**Tool used:** Excel / Google Sheets
+
 ## Project overview
 This project analyzes fourth-quarter 2024 sales data for VentaExpress, an e-commerce business focused on technology products in Mexico and Colombia.
 
